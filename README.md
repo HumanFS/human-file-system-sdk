@@ -1,3 +1,5 @@
+![](assets/20220712_012226_purple-computer-desktop-human-file-system.png)
+
 # The Human File System SDK
 
 **A Simple API for Patient-Controlled Health Data Aggregation, Sharing, and Monetization**
@@ -9,9 +11,6 @@ Together, we are creating a set of interoperable software libraries that can be 
 The libaries can be used independently, but will all be included in the HumanFS SDK.
 
 ## ❓ Why in the hell are you doing this?
-
-
-
 
 ![](assets/20220712_011612_growth-in-data-and-apps-life-cost-chart-slide.png)
 
@@ -39,8 +38,6 @@ Diet-Tracking App B:
 `let timeSeriesData = db.collections.get('Arthritis Severity');`
 
 ⇒ Making it possible for Diet-Tracking App B (and/or Pain Tracking App A) to easily analyze the relationship between dietary factors and Arthritis Severity using causal inference predictive model control recurrent neural networks.
-
-
 
 ## 🌈 Get Involved
 
