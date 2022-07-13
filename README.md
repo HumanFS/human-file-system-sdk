@@ -1,4 +1,4 @@
-![](assets/20220712_012226_purple-computer-desktop-human-file-system.png)
+![](assets/human-file-system-banner-logo.png)
 
 # The Human File System SDK
 
@@ -11,8 +11,6 @@ Together, we are creating a set of interoperable software libraries that can be 
 The libaries can be used independently, but will all be included in the HumanFS SDK.
 
 ## ❓ Why in the hell are you doing this?
-
-![](assets/20220712_011612_growth-in-data-and-apps-life-cost-chart-slide.png)
 
 There are 350k health apps containing various types of symptom and factor data.  However, the isolated data's relatively useless in all these silos. In order to make clinical discoveries, all the factor data needs to be combined with the outcome data.
 
