@@ -1,0 +1,26 @@
+{
+  "name": "human-file-system-sdk",
+  "version": "1.0.0",
+  "description": "We’re working to create 7 billion digital twins that can exponentially accelerate the pace of clinical discovery through digital clinical trials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HumanFS/human-file-system-sdk.git"
+  },
+  "keywords": [
+    "digital",
+    "health"
+  ],
+  "author": "human-file-filesystem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/HumanFS/human-file-system-sdk/issues"
+  },
+  "homepage": "https://github.com/HumanFS/human-file-system-sdk#readme",
+  "dependencies": {
+    "curedao-react-query-components": "^1.0.0"
+  }
+}
