@@ -1,0 +1,3 @@
+[submodule "sshr-hackfs"]
+	path = sshr-hackfs
+	url = https://github.com/yash-deore/sshr-hackfs.git
