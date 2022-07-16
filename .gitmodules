@@ -1,3 +1,6 @@
 [submodule "sshr-hackfs"]
 	path = sshr-hackfs
 	url = https://github.com/yash-deore/sshr-hackfs.git
+[submodule "xmtp-chat-react"]
+	path = xmtp-chat-react
+	url = https://github.com/HumanFS/xmtp-chat-react
